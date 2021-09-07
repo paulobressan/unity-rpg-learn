@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 0722f82fd0a82858b88b3a370cf7ba75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4273017477102210256
+    second: Cenario_84x84_0
+  - first:
+      213: -8251273612740036348
+    second: Cenario_84x84_1
+  - first:
+      213: 1584401484071103528
+    second: Cenario_84x84_2
+  - first:
+      213: -160239756837628853
+    second: Cenario_84x84_3
+  - first:
+      213: 6350509032609117159
+    second: Cenario_84x84_4
+  - first:
+      213: 1164366249294406334
+    second: Cenario_84x84_5
+  - first:
+      213: 4709294063692316565
+    second: Cenario_84x84_6
+  - first:
+      213: -8916473551891319726
+    second: Cenario_84x84_7
+  - first:
+      213: 1741619095273885651
+    second: Cenario_84x84_8
+  - first:
+      213: 8747558132428694837
+    second: Cenario_84x84_9
+  - first:
+      213: -8230473667042700036
+    second: Cenario_84x84_10
+  - first:
+      213: 7490118586182119637
+    second: Cenario_84x84_11
+  - first:
+      213: 8597670750320956848
+    second: Cenario_84x84_12
+  - first:
+      213: 5044654747274849403
+    second: Cenario_84x84_13
+  - first:
+      213: -7776557087368779988
+    second: Cenario_84x84_14
+  - first:
+      213: 5600792754812523000
+    second: Cenario_84x84_15
+  - first:
+      213: 654134264243066783
+    second: Cenario_84x84_16
+  - first:
+      213: -8320120654356898911
+    second: Cenario_84x84_17
+  - first:
+      213: 5526320056665073887
+    second: Cenario_84x84_18
+  - first:
+      213: 2499943071984373046
+    second: Cenario_84x84_19
+  - first:
+      213: -3299319872052729243
+    second: Cenario_84x84_20
+  - first:
+      213: 6417395089726699013
+    second: Cenario_84x84_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 84
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cenario_84x84_0
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 924
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03379467e3133b4c0800000000000000
+      internalID: -4273017477102210256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_1
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 924
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4097318cd569d7d80800000000000000
+      internalID: -8251273612740036348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 924
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ce8a751ccecf510800000000000000
+      internalID: 1584401484071103528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 924
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b445cc64ac6b6cdf0800000000000000
+      internalID: -160239756837628853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 840
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e37397915a812850800000000000000
+      internalID: 6350509032609117159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 840
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2a5a54fe8a82010800000000000000
+      internalID: 1164366249294406334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 840
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f7c310006ca5140800000000000000
+      internalID: 4709294063692316565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 840
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2543a5acb82524480800000000000000
+      internalID: -8916473551891319726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_8
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 840
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df46d3f6597b2810800000000000000
+      internalID: 1741619095273885651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 756
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535ed7f56c1956970800000000000000
+      internalID: 8747558132428694837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 756
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf496b68ecb77cd80800000000000000
+      internalID: -8230473667042700036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_11
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 756
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0bfe67b2f32f760800000000000000
+      internalID: 7490118586182119637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 756
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b595a8beff015770800000000000000
+      internalID: 8597670750320956848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_13
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 756
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c2ec1d3c6320640800000000000000
+      internalID: 5044654747274849403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_14
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 756
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2766dfe78e141490800000000000000
+      internalID: -7776557087368779988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_15
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 672
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19e2316530abd40800000000000000
+      internalID: 5600792754812523000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 672
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f979e97c5a3f31900800000000000000
+      internalID: 654134264243066783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_17
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 672
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab9aa4c85ef88c80800000000000000
+      internalID: -8320120654356898911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_18
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 672
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd863a4dfce61bc40800000000000000
+      internalID: 5526320056665073887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_19
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 672
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dc35c8af491b220800000000000000
+      internalID: 2499943071984373046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_20
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 672
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ae8e19e067632d0800000000000000
+      internalID: -3299319872052729243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cenario_84x84_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 672
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506fe7255da2f0950800000000000000
+      internalID: 6417395089726699013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
